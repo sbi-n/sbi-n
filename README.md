@@ -4,7 +4,7 @@
 <div align="center">
   
 ### Language
-[![language](https://skillicons.dev/icons?i=js,ts,html,css,python,lua)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=js,ts,python,lua)](https://skillicons.dev)
 
 ### Framework
 [![framework](https://skillicons.dev/icons?i=fastapi,react,tailwind,express)](https://skillicons.dev)
