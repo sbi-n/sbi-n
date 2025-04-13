@@ -1,15 +1,16 @@
 <h1 align="center">반가워요👋</h1>
-<hr>
 
 
-# Language
+### Language
 [![language](https://skillicons.dev/icons?i=js,ts,html,css,python,lua)](https://skillicons.dev)
 
-# Framework
+### Framework
 [![framework](https://skillicons.dev/icons?i=fastapi,react,tailwind,express)](https://skillicons.dev)
 
-# Tool
-[![tool](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+### Tool
+[![tool](https://skillicons.dev/icons?i=robloxstudio,vscode,visualstudio,git,github)](https://skillicons.dev)
 
-# IDE
-[![ide](https://skillicons.dev/icons?i=robloxstudio,vscode,visualstudio)](https://skillicons.dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbi-n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbi-n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
