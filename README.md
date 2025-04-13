@@ -1,4 +1,4 @@
-<h1 align="center">반가워요👋</h1>
+<h1 align="center">Hello👋</h1>
 
 
 <div align="center">
